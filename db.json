@@ -8,5 +8,10 @@
 			}
 		],
 		"success": true
+	}, 
+	"error":
+	{
+		"success": false,
+		"value": ["Invalid Customer Code specified"]
 	}
 }

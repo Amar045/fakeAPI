@@ -13,5 +13,16 @@
 	{
 		"success": false,
 		"value": ["Invalid Customer Code specified"]
+	},
+	"movement_qry":
+	{
+		"value":
+		[
+			{
+				"balance": 1000,
+				"baseDate": 20220103
+
+			}
+		]
 	}
 }
